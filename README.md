@@ -1,4 +1,4 @@
 # Reverse-The-Array
-Reverse the given array
 
-Different way to reverse the array in python.
+
+Different way to reverse the array or list in python.
